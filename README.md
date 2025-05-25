@@ -41,15 +41,16 @@
     <h2>↓ Contact me ↓</h2>
     <div style="display: flex; justify-content: center; align-items: center;">
         <a href="https://t.me/HaIWaeR">
-            <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9" alt="Telegram" width="150" height="50" />
+            <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9" alt="Telegram" />
         </a>
         <a href="https://vk.com/haiwaer">
-            <img src="https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3" alt="VK" width="150" height="50" />
+            <img src="https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3" alt="VK" />
         </a>
         <a href="https://discord.com/users/466689558315270144">
-            <img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=7289DA" alt="Discord" width="150" height="50" />
+            <img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=7289DA" alt="Discord" />
         </a>
     </div>
 </div>
+
 
 
