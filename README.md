@@ -15,6 +15,22 @@
     </div>
 </div>
 
+<div style="display: flex; justify-content: space-around; align-items: flex-start; padding: 20px; background-color: #f0f0f0;">
+    <div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; width: 30%; text-align: center;">
+        <p>C# на примерах (3 изд.) (мНПрИЗад)<br>Евдокимов</p>
+        <img src="URL_КНИГИ_1" alt="Книга 1" style="width: 100%; border-radius: 5px;">
+    </div>
+    <div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; width: 30%; text-align: center;">
+        <p>Текст для второго блока. Здесь можно описать другую книгу или тему.</p>
+        <img src="URL_КНИГИ_2" alt="Книга 2" style="width: 100%; border-radius: 5px;">
+    </div>
+    <div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; width: 30%; text-align: center;">
+        <p>Текст для третьего блока. Здесь можно добавить информацию о третьей книге.</p>
+        <img src="URL_КНИГИ_3" alt="Книга 3" style="width: 100%; border-radius: 5px;">
+    </div>
+</div>
+
+
 
 <div align="center">
     <h2>↓ Languages and Tools ↓</h2>
