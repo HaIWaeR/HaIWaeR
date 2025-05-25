@@ -15,21 +15,14 @@
     </div>
 </div>
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; padding: 20px; background-color: #f0f0f0;">
-    <div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; width: 30%; text-align: center;">
-        <p>C# на примерах (3 изд.) (мНПрИЗад)<br>Евдокимов</p>
-        <img src="URL_КНИГИ_1" alt="Книга 1" style="width: 100%; border-radius: 5px;">
-    </div>
-    <div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; width: 30%; text-align: center;">
-        <p>Текст для второго блока. Здесь можно описать другую книгу или тему.</p>
-        <img src="URL_КНИГИ_2" alt="Книга 2" style="width: 100%; border-radius: 5px;">
-    </div>
-    <div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; width: 30%; text-align: center;">
-        <p>Текст для третьего блока. Здесь можно добавить информацию о третьей книге.</p>
-        <img src="URL_КНИГИ_3" alt="Книга 3" style="width: 100%; border-radius: 5px;">
-    </div>
-</div>
 
+
+<div align="center">
+<h2>↓ The books I'm reading  ↓</h2>
+  <img src="https://github.com/HaIWaeR/HaIWaeR/blob/main/C%23%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D1%85%20%D0%95%D0%B2%D0%B4%D0%BE%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2.png?raw=true" alt="Book 1" width="200" height="300" />
+  <img src="https://github.com/HaIWaeR/HaIWaeR/blob/main/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B.%20%D0%92%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%20%D0%9A%D0%BE%D1%80%D0%BC%D0%B5%D0%BD%20%D0%A2%D0%BE%D0%BC%D0%B0%D1%81%20%D0%A5.png?raw=true" alt="Book 2" width="200" height="300" />
+  <img   src="https://github.com/HaIWaeR/HaIWaeR/blob/main/%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%80%D0%B8%20%D0%A0%D0%B8%D1%85%D1%82%D0%B5%D1%80%20Clr%20Via%20C%23.png?raw=true" alt="Book 3" width="200" height="300" />
+</div>
 
 
 <div align="center">
@@ -53,8 +46,8 @@
     </div>
 </div>
 
-<div align="center">
-    <h2>↓ Contact me ↓</h2>
+<div align="center" style="background-color: white;">
+    <h2 style="color: black;">↓ Contact me ↓</h2>
     <div style="display: flex; justify-content: center; align-items: center;">
         <a href="https://t.me/HaIWaeR">
             <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9" alt="Telegram" />
