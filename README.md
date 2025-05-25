@@ -4,12 +4,20 @@
   ## Hi there I am a beginner .Net developer 👋
 </div>
 
-About me 
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f0f0;">
+    <div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; max-width: 600px; text-align: center;">
+        <p>
+            I like self-development, I absorb a lot of useful knowledge by studying in the college 
+            <a href="https://ithub.ru" target="_blank" style="color: #1a73e8; text-decoration: none;">ItHub</a>, 
+            reviewing coursework on various topics, ranging from math to programming languages, as well as reading various articles such as 
+            <a href="https://metanit.com" target="_blank" style="color: #1a73e8; text-decoration: none;">metanit</a>.
+        </p>
+    </div>
+</div>
 
-Latest YoouTybe Videos
 
 <div align="center">
-    <h2>Languages and Tools</h2>
+    <h2>↓ Languages and Tools ↓</h2>
     <div style="display: flex; justify-content: center; align-items: center;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
         <img width="12" />
@@ -29,21 +37,19 @@ Latest YoouTybe Videos
     </div>
 </div>
 
-
-
-
 <div align="center">
     <h2>↓ Contact me ↓</h2>
     <div style="display: flex; justify-content: center; align-items: center;">
         <a href="https://t.me/HaIWaeR">
-            <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9" alt="Telegram" />
+            <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9" alt="Telegram" width="150" height="50" />
         </a>
         <a href="https://vk.com/haiwaer">
-            <img src="https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3" alt="VK" />
+            <img src="https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3" alt="VK" width="150" height="50" />
         </a>
         <a href="https://discord.com/users/466689558315270144">
-            <img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=7289DA" alt="Discord" />
+            <img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=7289DA" alt="Discord" width="150" height="50" />
         </a>
     </div>
 </div>
+
 
