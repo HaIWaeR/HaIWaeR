@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <h2>Мой профиль на Codewars</h2>
+  <h2>My profile on Codewars</h2>
   <a href="https://www.codewars.com/users/HaIWaeR">
     <img src="https://www.codewars.com/users/HaIWaeR/badges/large" alt="Codewars Badge" />
   </a>
