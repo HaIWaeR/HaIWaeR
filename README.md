@@ -4,17 +4,18 @@
   ## Hi there I am a beginner .Net developer 👋
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f0f0;">
-    <div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; max-width: 600px; text-align: center;">
-        <p>
-            I like self-development, I absorb a lot of useful knowledge by studying in the college 
-            <a href="[https://ithub.ru](https://spb.ithub.ru/)" target="_blank" style="color: #1a73e8; text-decoration: none;">ItHub</a>, 
-            reviewing coursework on various topics, ranging from math to programming languages, as well as reading various articles such as 
-            <a href="https://metanit.com" target="_blank" style="color: #1a73e8; text-decoration: none;">metanit</a>.
-        </p>
-    </div>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f0f0;">
+      <div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; max-width: 600px; text-align: center;">
+          <p>
+              I like self-development, I absorb a lot of useful knowledge by studying in the college 
+              <a href="[https://ithub.ru](https://spb.ithub.ru/)" target="_blank" style="color: #1a73e8; text-decoration: none;">ItHub</a>, 
+              reviewing coursework on various topics, ranging from math to programming languages, as well as reading various articles such as 
+              <a href="https://metanit.com" target="_blank" style="color: #1a73e8; text-decoration: none;">metanit</a>.
+          </p>
+      </div>
+  </div>
 </div>
-
 
 
 <div align="center">
