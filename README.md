@@ -72,5 +72,8 @@
     </div>
 </div>
 
-
+<div align="center">
+  <h2>↓ My contribution snake ↓</h2>
+  <img src="https://raw.githubusercontent.com/HaIWaeR/HaIWaeR/output/snake-purple.svg" alt="Snake animation purple" />
+</div>
 
