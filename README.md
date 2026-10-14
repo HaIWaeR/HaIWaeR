@@ -65,6 +65,8 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
     <img src="https://img.shields.io/badge/MediatR-6C3FC5?style=for-the-badge&logo=dotnet&logoColor=white" alt="mediatr" />
     <img src="https://img.shields.io/badge/Mapster-E8590C?style=for-the-badge&logo=dotnet&logoColor=white" alt="mapster" />
+    <img src="https://img.shields.io/badge/FluentValidation-2B7489?style=for-the-badge&logo=dotnet&logoColor=white" alt="fluentvalidation" />
+    <img src="https://img.shields.io/badge/xUnit-5E2D84?style=for-the-badge&logo=dotnet&logoColor=white" alt="xunit" />
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />
 </div>
 
