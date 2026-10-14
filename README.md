@@ -61,17 +61,11 @@
 
 <div align="center">
     <h2>↓ Frameworks and Libraries ↓</h2>
-    <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframeworkcore/entityframeworkcore-original.svg" height="40" alt="ef core logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-        <img width="12" />
-        <img src="./mediatr.svg" height="40" alt="mediatr logo" />
-        <img width="12" />
-        <img src="./mapster.svg" height="40" alt="mapster logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
-    </div>
+    <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ef core" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+    <img src="https://img.shields.io/badge/MediatR-6C3FC5?style=for-the-badge&logo=dotnet&logoColor=white" alt="mediatr" />
+    <img src="https://img.shields.io/badge/Mapster-E8590C?style=for-the-badge&logo=dotnet&logoColor=white" alt="mapster" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />
 </div>
 
 
