@@ -41,7 +41,7 @@
     <div style="display: flex; justify-content: center; align-items: center;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
         <img width="12" />
-        <img src="https://cdn.simpleicons.org/xaml/0C54C2" height="40" alt="xaml logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="xaml (.net) logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
         <img width="12" />
