@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="20" fill="#E8590C"/>
+  <text x="64" y="58" font-family="Consolas, monospace" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">A→B</text>
+  <text x="64" y="96" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="bold" fill="#fff" text-anchor="middle">Mapster</text>
+</svg>
